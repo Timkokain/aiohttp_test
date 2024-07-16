@@ -6,3 +6,4 @@ djangorestframework==3.14.0
 python-telegram-bot==20.3
 django-tinymce==3.6.1
 djangorestframework-simplejwt==5.2.2
+setuptools>=70.0.0 # not directly required, pinned by Snyk to avoid a vulnerability
